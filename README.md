@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/elenajp/elenajp/main/me_diving.png)
+![](https://raw.githubusercontent.com/eric-zamora-tech/eric-zamora-tech/main/assets/hero.jpg)
 
 # Hey 👋 I'm Eric!
 **I'm a Software / Computer Engineer. I like writing bugs and fixing features, or is it the other way around?  🥸**
