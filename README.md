@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/eric-zamora-tech/eric-zamora-tech/main/assets/hero.jpg)
 
 # Hey 👋 I'm Eric!
-**I'm a Software / Computer Engineer. I like writing bugs and fixing features, or is it the other way around?  🥸**
+**I'm a Software / Computer Engineer. I like writing bugs and fixing feature...or is it the other way around?  🥸**
 
 - 🌱 I’m currently learning Java along with Spring Boot
 - 💬 Ask me about React, Python, or Flutter!
