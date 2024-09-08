@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning Java along with Spring Boot
 - 💬 Ask me about React, Python, or Flutter!
-- 👨‍💻 All of my projects are available on my [**portfolio site**](https://eric-zamora-tech.netlify.app/).
 - ⚡ Fun fact: **I’m a racquetball enthusiast — always up for a friendly game! 🏓**
 
 ## 🔗 Connect with Me:
