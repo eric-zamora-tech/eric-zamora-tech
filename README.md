@@ -3,7 +3,7 @@
 # Hey 👋 I'm Eric!
 **I'm a Software / Computer Engineer. I like writing bugs and fixing features...or is it the other way around?  🥸**
 
-- 🌱 I’m currently learning Java along with Spring Boot
+- 🌱 I’m currently completing my Google IT Automation with Python Certificate
 - 💬 Ask me about React, Python, or Flutter!
 - ⚡ Fun fact: **I’m a racquetball enthusiast — always up for a friendly game! 🏓**
 
