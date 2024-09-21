@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/eric-zamora-tech/eric-zamora-tech/main/assets/hero.jpg)
 
 # Hey 👋 I'm Eric!
-**I'm a Software / Computer Engineer. I like writing bugs and fixing features...or is it the other way around?  🥸**
+**I'm a Software Engineer / Full Stack Web Developer. I like writing bugs and fixing features...or is it the other way around?  🥸**
 
-- 🌱 I’m currently completing my Google IT Automation with Python Certificate
-- 💬 Ask me about React, Python, or Flutter!
+- 🌱 I’m currently learning about Java Full Stack Web Development!
+- 💬 Ask me about Python, React, or Flutter!
 - ⚡ Fun fact: **I’m a racquetball enthusiast — always up for a friendly game! 🏓**
 
 ## 🔗 Connect with Me:
